@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Krislord/Desktop/wetransfer_website-files_2026-06-08_2216//**)",
+      "Read(//c/Users/Krislord/Desktop/wetransfer_website-files_2026-06-08_2216/**)",
+      "Bash(grep -viE '\\\\.html$|\\\\.claude')"
+    ]
+  }
+}

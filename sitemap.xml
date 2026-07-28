@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://www.imydiamonds.com/index.html</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.imydiamonds.com/index.html" />
+		<xhtml:link rel="alternate" hreflang="it" href="https://www.imydiamonds.com/italian.html" />
+	</url>
+	<url>
+		<loc>https://www.imydiamonds.com/italian.html</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.imydiamonds.com/index.html" />
+		<xhtml:link rel="alternate" hreflang="it" href="https://www.imydiamonds.com/italian.html" />
+	</url>
+	<url>
+		<loc>https://www.imydiamonds.com/about.html</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.imydiamonds.com/about.html" />
+		<xhtml:link rel="alternate" hreflang="it" href="https://www.imydiamonds.com/about_italian.html" />
+	</url>
+	<url>
+		<loc>https://www.imydiamonds.com/about_italian.html</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.imydiamonds.com/about.html" />
+		<xhtml:link rel="alternate" hreflang="it" href="https://www.imydiamonds.com/about_italian.html" />
+	</url>
+	<url>
+		<loc>https://www.imydiamonds.com/education.html</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.imydiamonds.com/education.html" />
+		<xhtml:link rel="alternate" hreflang="it" href="https://www.imydiamonds.com/education-italian.html" />
+	</url>
+	<url>
+		<loc>https://www.imydiamonds.com/education-italian.html</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.imydiamonds.com/education.html" />
+		<xhtml:link rel="alternate" hreflang="it" href="https://www.imydiamonds.com/education-italian.html" />
+	</url>
+</urlset>
