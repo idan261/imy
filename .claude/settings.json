@@ -3,7 +3,9 @@
     "allow": [
       "Read(//c/Users/Krislord/Desktop/wetransfer_website-files_2026-06-08_2216//**)",
       "Read(//c/Users/Krislord/Desktop/wetransfer_website-files_2026-06-08_2216/**)",
-      "Bash(grep -viE '\\\\.html$|\\\\.claude')"
+      "Bash(grep -viE '\\\\.html$|\\\\.claude')",
+      "Bash(sed -i 's/height: 2\\\\.5em; width: auto; vertical-align: middle;/height: 2.9em; width: auto; vertical-align: middle; margin-top: -0.15em;/g' index.html italian.html about.html about_italian.html education.html education-italian.html)",
+      "Bash(sed -i 's/max-width: 60%; width: 340px; height: auto;/max-width: 85%; width: 500px; height: auto;/g' index.html italian.html)"
     ]
   }
 }
